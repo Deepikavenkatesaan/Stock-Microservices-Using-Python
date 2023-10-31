@@ -1,12 +1,7 @@
 # Stock Trading Application with Alpaca API Using Python
 
-This repository contains a collection of six microservices designed to interact with the Alpaca API for various tasks related to stock trading. These microservices are modular and can be used together to build a comprehensive stock trading application.
-
 ## Introduction
-
-This repository contains a set of Python scripts that utilize the Alpaca API to perform various tasks related to stock trading. These scripts are designed to be modular 
-and can be used together to build a comprehensive stock trading application.
-
+This repository contains a set of Python scripts that utilize the Alpaca API to perform various tasks related to stock trading. These scripts are designed to be modular and can be used together to build a comprehensive stock trading application.
 
 ### 1. Install Dependencies:
 
@@ -152,3 +147,6 @@ buy_stocks()
 ### Note
 Ensure you have valid Alpaca API credentials to use these services.
 Use the Paper Trading API for testing.
+
+
+Happy trading! 📈
