@@ -17,7 +17,7 @@ You can now run the individual scripts based on your requirements.
 
 ## List of Microservices Overview and Function Signature:
 
-## 1. Retrieve Stock Information
+### 1. Retrieve Stock Information
    
 Description: This microservice allows you to retrieve detailed information about a specific stock.
 
@@ -33,7 +33,7 @@ def retrieve_stock_info(symbol: str) -> dict:
     """
     ...
     
-## 2. Place Buy Order
+### 2. Place Buy Order
    
 Description: This microservice enables you to place a buy order for a specific stock.
 
@@ -49,7 +49,7 @@ def place_buy_order(symbol: str, qty: int) -> None:
         None
     """
     ...
-## 3. Place Sell Order
+###  3. Place Sell Order
    
 Description: This microservice allows you to place a sell order for a specific stock.
 
@@ -65,7 +65,7 @@ def place_sell_order(symbol: str, qty: int) -> None:
         None
     """
     ...
-## 4. Retrieve Order History
+### 4. Retrieve Order History
    
 Description: This microservice retrieves the order history for your account.
 
@@ -77,7 +77,7 @@ def retrieve_and_display_orders() -> None:
         None
     """
     ...
-## 5. Add to Cart
+### 5. Add to Cart
    
 Description: This microservice allows you to add stocks to a cart for later processing.
 
@@ -93,7 +93,7 @@ def add_to_cart(stock_symbol: str) -> None:
     """
     ...
     
-## 6. View Cart
+### 6. View Cart
    
 Description: This microservice displays the contents of the cart.
 
@@ -106,7 +106,7 @@ def view_cart() -> None:
     """
     ...
     
-## 7. Buy Stocks
+### 7. Buy Stocks
    
 Description: This microservice allows you to buy the stocks in your cart.
 
