@@ -3,7 +3,6 @@
 ## Introduction
 
 This repository contains a set of Python scripts that utilize the Alpaca API to perform various tasks related to stock trading. These scripts are designed to be modular 
-
 and can be used together to build a comprehensive stock trading application.
 
 ### 1. Install Dependencies:
