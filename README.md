@@ -1,10 +1,22 @@
-# stock-microservices-jaeger-tracing-python
+# Stock Trading Application with Alpaca API Using Python
 
 ## Introduction
 
-The application leverages the Alpaca API to perform actions such as retrieving stock information, placing buy and sell orders, viewing order history, and more. It provides a 
+This repository contains a set of Python scripts that utilize the Alpaca API to perform various tasks related to stock trading. These scripts are designed to be modular 
 
-set of microservices, each focused on a specific functionality. 
+and can be used together to build a comprehensive stock trading application.
+
+### 1. Install Dependencies:
+
+pip install alpaca-trade-api
+
+### 2. Set Alpaca API Credentials:
+
+Replace the ALPACA_API_KEY and ALPACA_SECRET_KEY variables in the scripts with your own API credentials.
+
+### 3. Run the Scripts:
+   
+You can now run the individual scripts based on your requirements.
 
 ## Microservices Overview and Function Signature:
 
